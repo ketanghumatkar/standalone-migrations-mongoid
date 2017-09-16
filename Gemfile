@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in standalone_migrations_mongoid.gemspec
+# Specify your gem's dependencies in standalone-migrations-mongoid.gemspec
 gemspec
